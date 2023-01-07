@@ -1,0 +1,15 @@
+C:\GeekBrain\KR0701\kr\bin\Debug\net6.0\kr.exe
+C:\GeekBrain\KR0701\kr\bin\Debug\net6.0\kr.deps.json
+C:\GeekBrain\KR0701\kr\bin\Debug\net6.0\kr.runtimeconfig.json
+C:\GeekBrain\KR0701\kr\bin\Debug\net6.0\kr.dll
+C:\GeekBrain\KR0701\kr\bin\Debug\net6.0\kr.pdb
+C:\GeekBrain\KR0701\kr\obj\Debug\net6.0\kr.csproj.AssemblyReference.cache
+C:\GeekBrain\KR0701\kr\obj\Debug\net6.0\kr.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrain\KR0701\kr\obj\Debug\net6.0\kr.AssemblyInfoInputs.cache
+C:\GeekBrain\KR0701\kr\obj\Debug\net6.0\kr.AssemblyInfo.cs
+C:\GeekBrain\KR0701\kr\obj\Debug\net6.0\kr.csproj.CoreCompileInputs.cache
+C:\GeekBrain\KR0701\kr\obj\Debug\net6.0\kr.dll
+C:\GeekBrain\KR0701\kr\obj\Debug\net6.0\refint\kr.dll
+C:\GeekBrain\KR0701\kr\obj\Debug\net6.0\kr.pdb
+C:\GeekBrain\KR0701\kr\obj\Debug\net6.0\kr.genruntimeconfig.cache
+C:\GeekBrain\KR0701\kr\obj\Debug\net6.0\ref\kr.dll
